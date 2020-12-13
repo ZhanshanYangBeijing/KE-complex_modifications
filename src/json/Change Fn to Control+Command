@@ -1,0 +1,11 @@
+{
+    "type": "basic",
+    "from": {
+        "key_code": "Fn",
+    },
+    "to": [
+        {
+            "key_code": "control_command"
+        }
+    ]
+}
