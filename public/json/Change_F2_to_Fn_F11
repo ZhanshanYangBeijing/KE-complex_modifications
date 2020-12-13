@@ -1,0 +1,21 @@
+{
+
+"type": "basic",
+
+"from": {
+
+"key_code": "F2",
+
+},
+
+"to": [
+
+{
+
+"key_code": "Fn_F11"
+
+}
+
+]
+
+}
