@@ -1011,7 +1011,11 @@
         },
         {
           "path": "json/CommandShiftHomeAndEnd.json"
+        },
+        {
+          "path": "json/Change_F2_to_Fn_F11.json"
         }
+        
       ]
     },
     {
